@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ssss"
+    tools:context=".subjectVED">
+
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="195dp"
+        android:background="@drawable/gradiantrbox3"
+        android:text="MATHEMATICE"
+        android:textColor="@color/black"
+        android:textSize="28dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/b1"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradiantrbox3"
+
+        android:text="REASONING"
+        android:textSize="28dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="250dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/b2"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradiantrbox3"
+
+        android:text="ENGLISH"
+        android:textSize="28dp"
+        android:textStyle="bold" />
+
+
+
+
+
+</RelativeLayout>

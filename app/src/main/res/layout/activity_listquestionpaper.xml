@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LISTquestionpaper">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:id="@+id/i1"
+        android:background="@drawable/sss"/>
+
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:background="#ABF199EF"
+        android:layout_height="300dp"
+        android:layout_below="@+id/i1"
+
+
+        android:id="@+id/listview"
+        ></ListView>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/i11"
+        android:layout_below="@+id/listview"
+        android:background="@drawable/srgk"/>
+
+
+
+
+</RelativeLayout>
