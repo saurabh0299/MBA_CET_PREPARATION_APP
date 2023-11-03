@@ -1,6 +1,9 @@
 # MBA_CET_PREPARATION_APP
- Overview :-  This app is developed for Educational Purpose . In this application student get all MBA CET 2022 related study material , YouTube video , chat support , mock test “MBA CET Preparation” App developed for a User has been designed to achieve maximum efficiency and reduce the time taken to visit various website to for preparing mba cet 2022.   Technology :- Android Studio, For Frontend : xml  For Backend : java , Database : Firebase
- 
+•	Every year 1.38 Lack Student apply for MBA CET this application is helpful for those students.
+•	In this application student get all MBA CET related study material, YouTube video, chat support , mock test etc.
+•	Technology: - Android Studio, For Frontend: xml
+       For Backend: java, Database: Firebase
+
  
  
 ![image](https://user-images.githubusercontent.com/80140167/185800326-42620093-12bb-4e0e-8d37-136d0bbb0c1b.png)
